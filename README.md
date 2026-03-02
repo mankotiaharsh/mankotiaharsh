@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Harsh Mankotia
 
-🤖 **AI Engineer & Product Owner** at Encaptechno | Based in Mohali, India
+🤖 **AI Engineer & Product Technical Lead** at Encaptechno | Based in Mohali, India
 
 I build intelligent systems and data-driven solutions. With a B.Tech in CSE (AI & ML) from Apeejay Institute, I'm passionate about turning ideas into impactful AI products.
 
